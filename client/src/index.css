@@ -10,8 +10,9 @@ body {
 
 .heading{
   font-size: 5rem;
-  color: #f3c623;
+  color: #fecb89;
   font-family: 'Acme', sans-serif;
+  font-weight: bolder;
 }
 
 
@@ -51,7 +52,7 @@ a{
 }
 
  a:hover {
-  color: #f3c623;
+  color: #fecb89;
   text-decoration: none;
   font-size: 25px;
 }
