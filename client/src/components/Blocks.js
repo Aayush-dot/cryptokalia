@@ -22,7 +22,7 @@ class Blocks extends Component {
 
   render() {
     console.log('this.state', this.state);
-      
+
     return (
       <div>
         <div><Link to='/'>Home</Link></div>
@@ -34,7 +34,7 @@ class Blocks extends Component {
 
               return (
                 <span key={key} onClick={this.fetchPaginatedBlocks(paginatedId)}>
-                  <Button bsSize="small" bsStyle="danger">
+                  <Button bsSize="small" bsStyle="wrning">
                     {paginatedId}
                   </Button>{' '}
                 </span>

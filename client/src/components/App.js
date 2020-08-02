@@ -16,12 +16,13 @@ class App extends Component {
 
     return (
       <div className='App'>
+      <h1 style={{ color: '#f3c623'} }>
+      IF ANYONE IS GOING TO HOARD YOUR WEALTH, IT SHOULD BE YOU !!
+      </h1>
+      <br />
         <img className='logo' src={logo}></img>
         <br />
-        <div>
-          <b style={{ color: '#204051' }}>IF ANYONE IS GOING TO HOARD YOUR WEALTH, IT SHOULD BE YOU !!</b>
-        </div>
-        <br />
+
         <div><Link to='/blocks'>Blocks</Link></div>
         <div><Link to='/conduct-transaction'>Conduct a Transaction</Link></div>
         <div><Link to='/transaction-pool'>Transaction Pool</Link></div>

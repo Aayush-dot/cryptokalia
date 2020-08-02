@@ -1,6 +1,6 @@
 body {
   background-color: #000;
-  color: #f3c623;
+  color: #f9d56e;
   text-align: center;
   font-size: 20px;
   font-family: 'Quicksand';
@@ -38,6 +38,6 @@ body {
 }
 
 a, a:hover {
-  color: #f3c623;
+  color: #f9d56e;
   text-decoration: underline;
 }

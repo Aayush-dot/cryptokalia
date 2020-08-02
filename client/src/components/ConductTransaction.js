@@ -70,7 +70,7 @@ class ConductTransaction extends Component {
         </FormGroup>
         <div>
           <Button
-            bsStyle="danger"
+            bsStyle="warning"
             onClick={this.conductTransaction}
           >
             Submit
