@@ -16,7 +16,7 @@ class App extends Component {
 
     return (
       <div className='App'>
-      <h1 style={{ color: '#f3c623'} }>
+      <h1 className='heading'>
       IF ANYONE IS GOING TO HOARD YOUR WEALTH, IT SHOULD BE YOU !!
       </h1>
       <br />
