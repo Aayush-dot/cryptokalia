@@ -11,7 +11,7 @@ body {
 .heading{
   font-size: 5rem;
   color: #f3c623;
-  font-family: 'Bangers' cursive;
+  font-family: 'Acme', sans-serif;
 }
 
 
@@ -44,8 +44,14 @@ body {
   margin: 10%;
 }
 
-a, a:hover {
+a{
   color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ a:hover {
+  color: #f3c623;
   text-decoration: none;
   font-size: 25px;
 }
