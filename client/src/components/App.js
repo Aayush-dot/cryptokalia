@@ -19,7 +19,7 @@ class App extends Component {
         <img className='logo' src={logo}></img>
         <br />
         <div>
-          <b style={{ color: 'red' }}>IF ANYONE IS GOING TO HOARD YOUR WEALTH, IT SHOULD BE YOU !!</b>
+          <b style={{ color: '#204051' }}>IF ANYONE IS GOING TO HOARD YOUR WEALTH, IT SHOULD BE YOU !!</b>
         </div>
         <br />
         <div><Link to='/blocks'>Blocks</Link></div>
