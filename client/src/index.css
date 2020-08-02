@@ -9,8 +9,9 @@ body {
 }
 
 .heading{
-  font-size: 8rem;
-  color: '#f3c623'
+  font-size: 5rem;
+  color: #f3c623;
+  font-family: 'Bangers' cursive;
 }
 
 
@@ -44,6 +45,7 @@ body {
 }
 
 a, a:hover {
-  color: #fecb89;
-  text-decoration: underline;
+  color: #fff;
+  text-decoration: none;
+  font-size: 25px;
 }

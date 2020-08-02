@@ -17,7 +17,7 @@ class App extends Component {
     return (
       <div className='App'>
       <h1 className='heading'>
-      IF ANYONE IS GOING TO HOARD YOUR WEALTH, IT SHOULD BE YOU !!
+      TAKE BACK YOUR CONTROL !!!
       </h1>
       <br />
         <img className='logo' src={logo}></img>
