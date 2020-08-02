@@ -19,7 +19,7 @@ class App extends Component {
         <img className='logo' src={logo}></img>
         <br />
         <div>
-          Welcome to the blockchain...
+          IF ANYONE IS GOING TO HOARD YOUR WEALTH, IT SHOULD BE YOU !
         </div>
         <br />
         <div><Link to='/blocks'>Blocks</Link></div>
